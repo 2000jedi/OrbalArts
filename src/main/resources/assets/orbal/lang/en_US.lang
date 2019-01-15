@@ -1,0 +1,45 @@
+item.orbment_red.name=Fire Orbment
+item.orbment_green.name=Wind Orbment
+item.orbment_yellow.name=Earth Orbment
+item.orbment_blue.name=Water Orbment
+item.orbment_dark.name=Dark Orbment
+item.orbal_panel.name=Orbal Panel
+
+item.seipth_mp_1.name=MP 1 Seipth
+
+item.magic_heal.name=Heal
+item.magic_bless.name=Bless
+item.magic_range_heal.name=Heal (Range)
+item.magic_absorb.name=Absorb
+item.magic_fireball.name=Fire Ball (Small)
+item.magic_firestorm.name=Fire Storm
+item.magic_hell.name=Hell
+item.magic_teleport.name=Teleport
+item.magic_water_prison.name=Water Prison
+
+tile.craft_table.name=Orbal Craft Table
+
+entity.orbal.magic_ball.name = Magic Ball
+
+key.self_magic.desc=Use Magic to Yourself
+key.skill_tree.desc=Open Skill Tree
+key.change_team.desc=Change Team
+
+tooltip.seipth_mp_1=+10%% MP
+tooltip.magic_heal=Heal Amount: %d
+tooltip.magic_bless=Remove all effects
+tooltip.magic_absorb=Absorb
+tooltip.magic_fireball=A small fireball
+
+
+tooltip.range=Range:
+tooltip.mana_cost=Cost:
+tooltip.cool_down=Cool Down Time:
+tooltip.requirement=Requirement:
+tooltip.remain_points=Points Remaining:
+
+potion.cooldown=Magic Cool Down
+potion.fire=Burn
+
+itemGroup.orbal=Orbal Art
+key.orbal.category=Orbal Art

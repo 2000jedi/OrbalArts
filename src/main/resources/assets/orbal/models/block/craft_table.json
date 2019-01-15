@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "side": "orbal:blocks/workstation_side",
+        "front": "orbal:blocks/workstation_side",
+        "top": "orbal:blocks/workstation"
+    }
+}

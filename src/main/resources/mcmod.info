@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orbal",
+  "name": "Orbal Art",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["moscovin"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
